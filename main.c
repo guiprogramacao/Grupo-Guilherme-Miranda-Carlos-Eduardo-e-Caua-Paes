@@ -4,11 +4,11 @@
         printf("Hello, World");
         printf ("Cauã");
 
-        //Nome
+        //Meu nome(Carlos)
         printf("Carlos Eduardo");
         printf("Tavares");
-        //Coisa que gosta
-        printf("stanley e carros");
+        //Coisa que eu gosto
+        printf("editar videos e carros");
         //Nome
         printf("Guilherme");
         printf("Miranda");
