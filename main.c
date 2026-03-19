@@ -9,10 +9,10 @@
         printf("Tavares");
         //Coisa que eu gosto
         printf("editar videos e carros");
-        //Nome
+        //Meu nome (guilherme)
         printf("Guilherme");
         printf("Miranda");
-        //Coisa que gosta
+        //Coisa que eu (guilherme) gosto
         printf("games e manhwas");
         //Nome
         printf("Caua");
