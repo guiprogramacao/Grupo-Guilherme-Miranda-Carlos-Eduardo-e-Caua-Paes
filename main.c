@@ -1,12 +1,13 @@
-#include <stdio.h>
+    #include <stdio.h>
 
-int main(){
-    printf("Hello, World");
-  
+    int main(){
+        printf("Hello, World");
+        printf ("Cauã");
+        
+        printf("Carlos Eduardo");
+        printf("Tavares");
+        printf("stanley");
+        
+        return 0;
+    }
 
-
-      printf("Guilherme");
-    printf("Miranda");
-    printf("Comitante");
-    return 0;
-}
