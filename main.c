@@ -3,18 +3,22 @@
     int main(){
         printf("Hello, World");
         printf ("Cauã");
-        
+
+        //Nome
         printf("Carlos Eduardo");
         printf("Tavares");
-        printf("stanley");
-        
+        //Coisa que gosta
+        printf("stanley e carros");
+        //Nome
         printf("Guilherme");
         printf("Miranda");
-        printf("games");
-
+        //Coisa que gosta
+        printf("games e manhwas");
+        //Nome
         printf("Caua");
         printf("Paes");
-        printf("basquete");
+        //Coisa que gosta
+        printf("basquete e valorant");
         return 0;
     }
 
