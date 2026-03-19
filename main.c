@@ -2,10 +2,11 @@
 
 int main(){
     printf("Hello, World");
-    printf ("Cauã");
-    
-    printf("Carlos Eduardo");
-    
+  
+
+
+      printf("Guilherme");
+    printf("Miranda");
+    printf("Comitante");
     return 0;
 }
-
